@@ -698,7 +698,11 @@ p {
     font-size: 18px;
     font-weight: 700;
 }
-
+.citation{
+    font-size: 18px;
+    font-style: italic;
+    
+}
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
