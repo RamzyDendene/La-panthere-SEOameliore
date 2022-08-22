@@ -157,7 +157,9 @@ a:hover {
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
 }
-
+.col-sm-12 p{
+    font-weight: bold;
+}
 .d-bloc .btn-wire,
 .d-bloc .btn-wire:hover {
     color: rgba(255, 255, 255, 1);
