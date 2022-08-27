@@ -160,6 +160,10 @@ a:hover {
 .col-sm-12 p{
     font-weight: bold;
 }
+.col-sm-3{
+    display: flex;
+    justify-content: center;}
+    
 .d-bloc .btn-wire,
 .d-bloc .btn-wire:hover {
     color: rgba(255, 255, 255, 1);
