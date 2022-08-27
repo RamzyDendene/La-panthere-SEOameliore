@@ -798,6 +798,9 @@ footer .black, span{
     color: black!important;
     
 }
+.black{
+    color: black!important
+}
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
